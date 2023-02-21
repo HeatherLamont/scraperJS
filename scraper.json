@@ -1,0 +1,66 @@
+[
+  {
+    "title": "Cashel Blue",
+    "imgUrl": "images/cashelblue.jpg",
+    "discount": "No discount",
+    "price": "£5.43"
+  },
+  {
+    "title": "Dunshyre Blue",
+    "imgUrl": "images/dunshyreblue.jpg",
+    "discount": "No discount",
+    "price": "£8"
+  },
+  {
+    "title": "Dunshyre Blue",
+    "imgUrl": "images/evesselection.jpg",
+    "discount": "£5 discount",
+    "price": "£45"
+  },
+  {
+    "title": "Hebridean Blue",
+    "imgUrl": "images/hebridean.jpg",
+    "discount": "No discount",
+    "price": "£6.75"
+  },
+  {
+    "title": "Iain's Choice",
+    "imgUrl": "images/iains.jpg",
+    "discount": "No discount",
+    "price": "£50"
+  },
+  {
+    "title": "Karen's Choice",
+    "imgUrl": "images/karens.jpg",
+    "discount": "No discount",
+    "price": "£40"
+  },
+  {
+    "title": "Lanark Blue",
+    "imgUrl": "images/lanark.jpg",
+    "discount": "No discount",
+    "price": "£6.82"
+  },
+  {
+    "title": "Membrillo Blue",
+    "imgUrl": "images/membrillo.jpg",
+    "discount": "No discount",
+    "price": "£4"
+  },
+  {
+    "title": "Mikey's Selection",
+    "imgUrl": "images/mikeys.jpg",
+    "discount": "No discount",
+    "price": "£70"
+  },
+  {
+    "title": "Membrillo Blue",
+    "imgUrl": "images/pasteurised.jpg",
+    "discount": "No discount",
+    "price": "£40"
+  },
+  {
+    "totalNumberOfItems": 10,
+    "averagePriceOfAllItems": "£27.60"
+  }
+]
